@@ -43,7 +43,7 @@
         "template--18309637636369__6a3bb789-ce10-45f5-ae67-e2063ef8c76b-168016437761699a6e-2"
       ],
       "custom_css": [
-        ".button_label_1 {background-color: #37a9e8;}"
+        "#button_label_1{background-color: #37a9e8;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/8f8a289bedb414d0801d25743a5efc7b.jpg",
